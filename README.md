@@ -20,9 +20,11 @@ The currently supported output formats are: C# Object Initialization Code, JSON 
 # Instructions (Visual Studio - 2019 only)
 
 If after install, open Visual Studio 2019, encounter warning: One or more extensions were loaded using deprecated APIs.
+
 	- Click: Don't show this message for current extensions
 
 If after install, open Visual Studio 2019, encounter warning: One or more extensions require PackageAutoLoad to be enabled.
+
 	- Click: Enable PackageAutoLoad
 
 # Instructions (Visual Studio - all versions)
